@@ -1,20 +1,29 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    signingConfigs {
+        config {
+            keyAlias 'chronometer'
+            keyPassword 'paolo@311'
+            storeFile file('C:/jee/eclipse/workspace_game/Chronometer/misc/chronometer')
+            storePassword 'paolo@311'
+        }
+    }
+    compileSdkVersion 14
     buildToolsVersion "21.1.2"
-
     defaultConfig {
         applicationId "com.rde.apps.chronometer"
-        minSdkVersion 8
+        minSdkVersion 11
         targetSdkVersion 21
     }
-
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
         }
+    }
+    productFlavors {
     }
 }
 

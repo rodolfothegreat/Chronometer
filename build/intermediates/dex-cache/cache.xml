@@ -9,13 +9,6 @@
         <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-4b5665af0e46640768f5ee6b806285a23b59c73a.jar" />
     </item>
     <item
-        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-37afa65c05e635613677c7cebd80696fd6c86b78.jar" />
-    </item>
-    <item
         jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\20.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -23,18 +16,25 @@
         <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-ac99e20e46c20ee237c1d46163ba2f64165ddc96.jar" />
     </item>
     <item
-        jar="C:\eclipse\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-98bb00eb38506e2be800f352822ded247b7e8834.jar" />
-    </item>
-    <item
         jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
         <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-a84ee938488a4dd5f4e92b8e2757a51d94198029.jar" />
+    </item>
+    <item
+        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-37afa65c05e635613677c7cebd80696fd6c86b78.jar" />
+    </item>
+    <item
+        jar="C:\eclipse\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-98bb00eb38506e2be800f352822ded247b7e8834.jar" />
     </item>
 
 </items>

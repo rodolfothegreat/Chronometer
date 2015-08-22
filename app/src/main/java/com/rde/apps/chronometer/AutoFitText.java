@@ -84,7 +84,7 @@ public class AutoFitText extends TextView {
                 // make an initial call to onSizeChanged to make sure that refitText is triggered
                 onSizeChanged(AutoFitText.this.getWidth(), AutoFitText.this.getHeight(), 0, 0);
                 // Remove the LayoutListener immediately so we don't run into an infinite loop
-                AutoFitText.this.getViewTreeObserver().removeOnGlobalLayoutListener(this);
+                AutoFitText.this.getViewTreeObserver().removeGlobalOnLayoutListener(this);
             }
         });
     }

@@ -60,6 +60,6 @@ ADDED from AndroidManifest.xml:23:17
 	android:name
 		ADDED from AndroidManifest.xml:23:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:25:17
+ADDED from AndroidManifest.xml:24:17
 	android:name
-		ADDED from AndroidManifest.xml:25:27
+		ADDED from AndroidManifest.xml:24:27
