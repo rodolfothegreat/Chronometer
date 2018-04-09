@@ -2,39 +2,67 @@
 <items version="2" >
 
     <item
-        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-4b5665af0e46640768f5ee6b806285a23b59c73a.jar" />
-    </item>
-    <item
-        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\20.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\rodol\.android\build-cache\4f600c42c36db6de115ddf0e5fa796325db9a8e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="e5531cb41e35c81a051a274945542f6b31e4c97e">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-ac99e20e46c20ee237c1d46163ba2f64165ddc96.jar" />
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fdbfd5b52417df96a4a50daf0f6b241f5c9a3c4e\classes.dex" />
     </item>
     <item
-        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-a84ee938488a4dd5f4e92b8e2757a51d94198029.jar" />
-    </item>
-    <item
-        jar="C:\jee\adt\Chronometer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\rodol\.android\build-cache\9590cfa338646c39fc2042c4859458880781bbdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\classes-37afa65c05e635613677c7cebd80696fd6c86b78.jar" />
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d08dfbad5616210258d0b246654cac22676a8e91\classes.dex" />
     </item>
     <item
-        jar="C:\eclipse\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b4698ced1563c72bbdc8827b991acdbe97a9935">
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_007eb1e5da734608021a41caa4d13ed3b0139b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_82203571a4cd84a34cef9d75b19a426b028db482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eclipse\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\jee\adt\Chronometer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-98bb00eb38506e2be800f352822ded247b7e8834.jar" />
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_6f773a71287943ac702d98c0434c67759802f739\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rodol\.android\build-cache\1ee730d916cad057085a5773d2d7be0fe4c152c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d10eaff779e938aaf60f9d05ffa4f3950876d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rodol\.android\build-cache\1ee730d916cad057085a5773d2d7be0fe4c152c1\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\rodol\OneDrive\Documents\GitHub\Chronometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_6f025502c375c512a62fe2774344e2120b36b9df\classes.dex" />
     </item>
 
 </items>

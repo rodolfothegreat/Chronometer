@@ -10,7 +10,7 @@ android {
         }
     }
     compileSdkVersion 14
-    buildToolsVersion "21.1.2"
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "com.rde.apps.chronometer"
         minSdkVersion 11
