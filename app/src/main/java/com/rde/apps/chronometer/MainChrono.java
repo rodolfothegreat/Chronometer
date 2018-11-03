@@ -2,7 +2,7 @@ package com.rde.apps.chronometer;
 
 import java.util.ArrayList;
 
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
@@ -32,7 +32,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.AdapterView.OnItemSelectedListener;
 
-public class MainChrono extends ActionBarActivity implements OnClickListener , OnItemClickListener {
+public class MainChrono extends  AppCompatActivity implements OnClickListener , OnItemClickListener {
 	ArrayList<ChronoLap> arrayOfLaps;
 	TimeAdapter adapter;
 	Button btnStart;
@@ -115,7 +115,7 @@ public class MainChrono extends ActionBarActivity implements OnClickListener , O
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
 		if (id == R.id.action_settings) {
-			Toast.makeText(this, "Chronometer v1.0\n" + "rodolfothegreat@hotmail.com", Toast.LENGTH_LONG).show();
+			Toast.makeText(this, "Chronometer v2.1\n" + "rodolfothegreat@hotmail.com", Toast.LENGTH_LONG).show();
 
 			return true;
 		}

@@ -12,6 +12,7 @@ import android.util.TypedValue;
 import android.view.ViewGroup.LayoutParams;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.widget.TextView;
+//import android.widget.TextView;
  
 /**
  * This class builds a new android Widget named AutoFitText which can be used instead of a TextView
@@ -26,7 +27,10 @@ import android.widget.TextView;
  */
 @SuppressLint("NewApi")
 @SuppressWarnings("unused")
-public class AutoFitText extends TextView {
+
+//
+
+public class AutoFitText extends android.support.v7.widget.AppCompatAutoCompleteTextView {
  
     /** Global min and max for text size. Remember: values are in pixels! */
     private final int MIN_TEXT_SIZE = 10;
@@ -238,7 +242,6 @@ public class AutoFitText extends TextView {
     /**
      * This method receives a call upon a change in text content of the TextView. Unfortunately it
      * is also called - among others - upon text size change which means that we MUST NEVER CALL
-     * {@link #refitText(String)} from this method! Doing so would result in an endless loop that
      * would ultimately result in a stack overflow and termination of the application
      *
      * So for the time being this method does absolutely nothing. If you want to notify the view of

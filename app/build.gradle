@@ -9,12 +9,12 @@ android {
             storePassword 'paolo@311'
         }
     }
-    compileSdkVersion 14
-    buildToolsVersion "21.1.2"
-    defaultConfig {
+    compileSdkVersion 27
+    buildToolsVersion '28.0.3'
+   defaultConfig {
         applicationId "com.rde.apps.chronometer"
-        minSdkVersion 11
-        targetSdkVersion 21
+       minSdkVersion 17
+       targetSdkVersion 27
     }
     buildTypes {
         release {
@@ -25,10 +25,19 @@ android {
     }
     productFlavors {
     }
+    lintOptions {
+        abortOnError false
+    }
+
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    google()        //---> Add this
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
-    compile 'com.android.support:appcompat-v7:20.0.0'
-    compile 'com.android.support:gridlayout-v7:20.0.0'
+    compile 'com.android.support:appcompat-v7:27.0.0'
+    compile 'com.android.support:gridlayout-v7:27.0.0'
 }

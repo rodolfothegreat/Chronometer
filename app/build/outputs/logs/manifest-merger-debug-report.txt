@@ -1,65 +1,102 @@
 -- Merging decision tree log ---
 manifest
-ADDED from AndroidManifest.xml:2:1
-	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\e0f5a42598304798636918ad52630aac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.0.aar\d0f8e680f7bf79e5a1d4f639738cd82a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\7073c33d2401d63868c6495c28551341\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\d8c1eba5a539ad89631fc05ce73235b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ab12828961b2d92fb5fa07f68b438450\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\e8e35d6eb9e0b50aa8177ca54cb21c67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\9e757f84ccff99e640c68ae6ddd61b2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\d1e64881a61aadff2edc357f2423be71\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from AndroidManifest.xml:3:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from AndroidManifest.xml:5:5
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from AndroidManifest.xml:4:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from AndroidManifest.xml:7:5
-MERGED from com.android.support:support-v4:20.0.0:16:5
-MERGED from com.android.support:appcompat-v7:20.0.0:16:5
-MERGED from com.android.support:support-v4:20.0.0:16:5
-MERGED from com.android.support:gridlayout-v7:20.0.0:16:5
-MERGED from com.android.support:support-v4:20.0.0:16:5
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\e0f5a42598304798636918ad52630aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\e0f5a42598304798636918ad52630aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.0.aar\d0f8e680f7bf79e5a1d4f639738cd82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.0.aar\d0f8e680f7bf79e5a1d4f639738cd82a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\7073c33d2401d63868c6495c28551341\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\7073c33d2401d63868c6495c28551341\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\d8c1eba5a539ad89631fc05ce73235b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\d8c1eba5a539ad89631fc05ce73235b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ab12828961b2d92fb5fa07f68b438450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ab12828961b2d92fb5fa07f68b438450\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\e8e35d6eb9e0b50aa8177ca54cb21c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\e8e35d6eb9e0b50aa8177ca54cb21c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\9e757f84ccff99e640c68ae6ddd61b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\9e757f84ccff99e640c68ae6ddd61b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\d1e64881a61aadff2edc357f2423be71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\d1e64881a61aadff2edc357f2423be71\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
 	android:targetSdkVersion
-		ADDED from AndroidManifest.xml:9:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from AndroidManifest.xml:8:9
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml
 application
-ADDED from AndroidManifest.xml:11:5
-MERGED from com.android.support:support-v4:20.0.0:17:5
-MERGED from com.android.support:appcompat-v7:20.0.0:17:5
-MERGED from com.android.support:support-v4:20.0.0:17:5
-MERGED from com.android.support:gridlayout-v7:20.0.0:17:5
-MERGED from com.android.support:support-v4:20.0.0:17:5
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from AndroidManifest.xml:14:9
-	android:allowBackup
-		ADDED from AndroidManifest.xml:12:9
-	android:icon
-		ADDED from AndroidManifest.xml:13:9
-	android:theme
-		ADDED from AndroidManifest.xml:15:9
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:12:9-41
 	android:background
-		ADDED from AndroidManifest.xml:16:3
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:14:3-50
+	android:icon
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.rde.apps.chronometer.MainChrono
-ADDED from AndroidManifest.xml:18:9
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:label
-		ADDED from AndroidManifest.xml:21:13
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:19:13-45
 	android:configChanges
-		ADDED from AndroidManifest.xml:19:13
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:17:13-74
 	android:name
-		ADDED from AndroidManifest.xml:20:13
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:22:13
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:18:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:23:17
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from AndroidManifest.xml:23:25
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:24:17
+ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from AndroidManifest.xml:24:27
+		ADDED from C:\jee\adt\Chronometer\app\src\main\AndroidManifest.xml:22:27-74
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Rodolfo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\47087724551df8c36f9fdc586b480510\AndroidManifest.xml:26:13-58
