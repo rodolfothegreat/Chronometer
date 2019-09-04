@@ -4,7 +4,7 @@
             "outputFile": "C:\\jee\\adt\\Chronometer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rodolfo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\e0f5a42598304798636918ad52630aac\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\Rodolfo\\.gradle\\caches\\transforms-2\\files-2.1\\882dd1c992f960cf83836b1079ce61fc\\appcompat-v7-27.0.0\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Rodolfo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\d1e64881a61aadff2edc357f2423be71\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\Rodolfo\\.gradle\\caches\\transforms-2\\files-2.1\\34be2c78d71f700720c45c7b20b1acf5\\support-compat-27.0.0\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
