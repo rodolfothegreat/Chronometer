@@ -30,7 +30,7 @@ import android.widget.TextView;
 
 //
 
-public class AutoFitText extends android.support.v7.widget.AppCompatAutoCompleteTextView {
+public class AutoFitText extends androidx.appcompat.widget.AppCompatAutoCompleteTextView {
  
     /** Global min and max for text size. Remember: values are in pixels! */
     private final int MIN_TEXT_SIZE = 10;
