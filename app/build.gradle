@@ -9,11 +9,11 @@ android {
             storePassword 'paolo@311'
         }
     }
-    compileSdk 32
+    compileSdk 33
     defaultConfig {
         applicationId "com.rde.apps.chronometer"
-        minSdk 22
-        targetSdk 32
+        minSdk 23
+        targetSdk 33
     }
     buildTypes {
         release {
@@ -24,13 +24,13 @@ android {
     }
     productFlavors {
     }
-    lintOptions {
-        abortOnError false
-    }
     compileOptions {
         targetCompatibility JavaVersion.VERSION_1_8
     }
     buildToolsVersion '32.0.0'
+    lint {
+        abortOnError false
+    }
 
 }
 
